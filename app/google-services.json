@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657294222171",
+    "project_id": "listacrud-94cdd",
+    "storage_bucket": "listacrud-94cdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657294222171:android:a389c60d95c4133772b07e",
+        "android_client_info": {
+          "package_name": "com.example.a3listacrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657294222171-ioj0fjvirg6l0v1iisbsea3t1hv8ssml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTqHA9l3jmirM_5bFQhsjuvWEAdWuKHlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657294222171-ioj0fjvirg6l0v1iisbsea3t1hv8ssml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
