@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
 
         usersItemArrayList = new ArrayList<>();
 
-        buttonAdd = findViewById(R.id.buttonADD);
+        buttonAdd = findViewById(R.id.buttonAdd);
         buttonAdd.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

@@ -138,7 +138,7 @@ public class UsersRecycleAdapter extends RecyclerView.Adapter<UsersRecycleAdapte
                         if (newName.equals(name) && newEmail.equals(email) && newCountry.equals(country)){
                             Toast.makeText(context, "Você não pode alterar os dados", Toast.LENGTH_SHORT).show();
                         }else{
-                            databaseReference.child("USERS").child(id).setValue(new UsersItem(id,name,email,country));
+                            databaseReference.child("USERS").child(id).setValue(new UsersItem(id,newName,newEmail,newCountry));
                             Toast.makeText(context,"Usuário alterado com sucesso!", Toast.LENGTH_SHORT).show();
                             dialog.dismiss();
                         }

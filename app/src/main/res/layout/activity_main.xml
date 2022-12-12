@@ -14,7 +14,7 @@
         android:layout_weight="1"/>
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/buttonADD"
+        android:id="@+id/buttonAdd"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:background="@android:color/holo_green_dark"
