@@ -13,6 +13,8 @@ public class UsersItem {
         this.userCountry = userCountry;
     }
 
+    public UsersItem(){}
+
     public String getUserID() {
         return userID;
     }
